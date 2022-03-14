@@ -10,8 +10,8 @@ Alors qu'il contournait Alpha Centauri en route vers sa première destination, l
 ![image](https://user-images.githubusercontent.com/13614861/158199983-e03bb49a-f3e0-4f2c-ad6e-2333e25e9aed.png)
 
 ## Mission:
-Pour aider les équipes de sauvetage et récupérer les passagers perdus, vous êtes mis au défi de prédire quels passagers ont été transportés par l'anomalie en utilisant les enregistrements récupérés du système informatique endommagé du vaisseau spatial.
+Pour aider les équipes de sauvetage et récupérer les passagers perdus, nous sommes mis au défi de prédire quels passagers ont été transportés par l'anomalie en utilisant les enregistrements récupérés du système informatique endommagé du vaisseau spatial.
 
-Aidez-les à les sauvegarder et à changer l'histoire !
+Aidons-les à les sauver et à changer l'histoire !
 
 Les **données** pour ce projet sont disponible [ici](https://www.kaggle.com/c/spaceship-titanic/data).
