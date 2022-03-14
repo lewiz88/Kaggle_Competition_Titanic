@@ -1,4 +1,5 @@
-# Kaggle_Competition_Titanic
+# Spaceship Titanic
+### Predict which passengers are transported to an alternate dimension (Kaggle Competition)
 ## Mise en situation:
 Bienvenue en l'an 2912, où vos compétences en science des données sont nécessaires pour résoudre un mystère cosmique. Nous avons reçu une transmission à quatre années-lumière et les choses ne vont pas bien.
 
